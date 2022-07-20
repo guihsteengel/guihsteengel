@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/guilherme-stengel-040306237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="Stengel#6380" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=Stengel#6380"/>
-    <a href="twitch.tv/walle1/" target="_blank"><img src="h[ttps://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://cdn.pixabay.com/photo/2021/12/10/16/38/twitch-6860918_960_720.png)" target="_blank"></a> 
+    <a href="twitch.tv/walle1/" target="_blank"><img src="https://cdn.pixabay.com/photo/2021/12/10/16/38/twitch-6860918_960_720.png" target="_blank"></a> 
   </a>
   </p>
   <img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" width="50px">
