@@ -1,4 +1,4 @@
-# **Welcome to my GitHub**
+## Hello World ☕
 ## I'm Guilherme Stengel, a fanatical fan of Corinthians, passionate about games and programming. Future developer.
 ### I'm a computer science student at UENP.
 
