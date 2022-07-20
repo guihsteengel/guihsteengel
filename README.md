@@ -16,7 +16,7 @@
   <a href="Stengel#6380" alt="Discord">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=Stengel#6380"/>
   </a>
-  
+  </p>
   <img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" width="50px">
- 
+  </p>
 </div>
