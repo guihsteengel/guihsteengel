@@ -15,7 +15,6 @@
   <a href="https://www.linkedin.com/in/guilherme-stengel-040306237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="Discord" alt="Stengel#6380">
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=Stengel#6380"/>
-    <a href="https://twitch.tv/walle1/" target="_blank"><img src="https://img.shields.io/twitch/status/walle1?style=social" target="_blank"></a> 
   </a>
   </p>
   <img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" width="50px">
