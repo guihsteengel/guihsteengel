@@ -18,5 +18,6 @@
   </a>
   </p>
   <img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" width="50px">
+  <img src="[https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg](http://peteletrica.uff.br/wp-content/uploads/sites/509/2021/09/Python-logo-notext.svg_.png)" width="50px">
   </p>
 </div>
