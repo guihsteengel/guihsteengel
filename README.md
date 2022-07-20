@@ -1,5 +1,5 @@
 # **Welcome to my GitHub**
-## I'm Guilherme Stengel. I'm a fanatical supporter of Corinthians, passionate about games and programming. Future developer.
+## I'm Guilherme Stengel, a fanatical fan of Corinthians, passionate about games and programming. Future developer.
 ### I'm a computer science student at UENP.
 
 <div align="center">
