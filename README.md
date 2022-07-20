@@ -1,11 +1,11 @@
 # **Welcome to my GitHub**
-## My name is Guilherme Stengel. I'm a fanatical supporter of Corinthians, passionate about games and programming. Future developer.
-### I am a computer science student at UENP.
+## I'm Guilherme Stengel. I'm a fanatical supporter of Corinthians, passionate about games and programming. Future developer.
+### I'm a computer science student at UENP.
 
 <div align="center">
   <a href="https://github.com/guihsteengel">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guihsteengel-dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihsteengel-dev&layout=compact&langs_count=7&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=guihsteengel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihsteengel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ##
