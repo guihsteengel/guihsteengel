@@ -2,7 +2,7 @@
 
 ## I'm Guilherme Stengel, a Backend Developer in transition, passionate about programming, games, and solving real-world problems with technology.
 
-### I’m a Computer Science student at UENP (Universidade Estadual do Norte do Paraná).
+### I have a degree in Computer Science from UENP (Universidade Estadual do Norte do Paraná).
 
 ---
 
