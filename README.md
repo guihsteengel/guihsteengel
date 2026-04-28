@@ -1,6 +1,10 @@
-## Hello World ☕
-## I'm Guilherme Stengel, a fanatical fan of Corinthians, passionate about games and programming. Future developer.
-### I'm a computer science student at UENP.
+## 👋 Hello World ☕
+
+## I'm Guilherme Stengel, a Backend Developer in transition, passionate about programming, games, and solving real-world problems with technology.
+
+### I’m a Computer Science student at UENP (Universidade Estadual do Norte do Paraná).
+
+---
 
 <div align="center">
   <a href="https://github.com/guihsteengel">
@@ -8,16 +12,39 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guihsteengel&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-##
+---
 
-<div align="center"> 
-  <a href="https://instagram.com/guiihstengel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilherme-stengel-040306237/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="Discord" alt="Stengel#6380">
-    <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=Stengel#6380"/>
+<div align="center">
+
+  <a href="https://instagram.com/guiihstengel" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  </p>
-  <img src="https://storage.googleapis.com/hcode.com.br/courses/65/logo_svg5fd776bc276da.svg" width="50px">
-  <img src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg" width="50px">
-  </p>
+
+  <a href="https://www.linkedin.com/in/guilherme-stengel-040306237/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:guilhermestengel20@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
 </div>
+
+---
+
+### 🛠️ Technologies I'm working with
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge">
+
+</div>
+
+---
+
+### ⚽ About me
+- Huge Corinthians fan ⚫⚪
+- Passionate about games 🎮
+- Focused on backend development with C# and .NET 🚀
